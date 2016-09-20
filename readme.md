@@ -4,7 +4,7 @@
 
 <h2>Some Results</h2>
 
-<p>-><center><em>Performance of Best Predictive Model</em></center>
+<p> <p style="text-align: center;"><em>Performance of Best Predictive Model</em></p>
 <img src="https://github.com/pbpearman/occc_climate_change_impacts/blob/master/misc_graphics/birds_and_plants_lin_weights_color.png?raw=true" alt="Model Performance Measured by AUC-ROC" title="Model Performance"></p>
 
 <p>Here is a link to <a href="http://www.ch2014-impacts.ch/">the full CH2014 Report</a></p>
