@@ -4,8 +4,10 @@
 
 <h2>Some Results</h2>
 
+
 <p align="center">
-><em>Performance of Best Predictive Model</em>
+<strong>Performance of Best Predictive Model</strong>
+<br>
 <br>
 <img src="https://github.com/pbpearman/occc_climate_change_impacts/blob/master/misc_graphics/birds_and_plants_lin_weights_color.png?raw=true" alt="Model Performance Measured by AUC-ROC" title="Model Performance">
 </p>
